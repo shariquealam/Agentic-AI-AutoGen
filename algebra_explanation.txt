@@ -1,0 +1,8 @@
+Algebra Problem: Multiplication of 6 * 4
+
+Explanation:
+- Think of it as adding the number 6 four times or the number 4 six times.
+- So you have: 6 + 6 + 6 + 6 = 24 or 4 + 4 + 4 + 4 + 4 + 4 = 24.
+
+Result:
+- Therefore, 6 * 4 = 24.
