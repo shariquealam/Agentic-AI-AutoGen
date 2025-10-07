@@ -7,7 +7,7 @@ from autogen_ext.agents.web_surfer import MultimodalWebSurfer
 from autogen_ext.models.openai import OpenAIChatCompletionClient
 
 os.environ[
-    "OPENAI_API_KEY"] = "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"
+    "OPENAI_API_KEY"] = "lfnmfm;fm;sdflnsdklds"
 
 
 async def main():

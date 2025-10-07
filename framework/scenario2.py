@@ -9,7 +9,7 @@ from autogen_ext.models.openai import OpenAIChatCompletionClient
 
 from framework.agentFactory import AgentFactory
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 
 
 async def main():

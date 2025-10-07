@@ -9,12 +9,12 @@ from autogen_ext.models.openai import OpenAIChatCompletionClient
 from autogen_ext.tools.mcp import McpWorkbench, StdioServerParams
 
 os.environ[
-    "OPENAI_API_KEY"] = "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"
+    "OPENAI_API_KEY"] = "fdsfkmsdlmflsdmfsd"
 
 os.environ["JIRA_URL"] = "https://alamsharique.atlassian.net"
 os.environ["JIRA_USERNAME"] = "alam.sharique@gmail.com"
 os.environ[
-    "JIRA_API_TOKEN"] = "ATATT3xFfGF0rToSeArbAsbcDMBG4uMQ3LhK0souDxnNEx2uxO9IDQRwmYnF2VD4UWhcNW1N3gU8BfbGXJCtIE2cDDDTaVRH8HwZ0DsXSco1SSlYqdJ3tu9428xesuFyLpViBQMgMGS9yeOzAKYgY4r9CTsWbcLi6nsKYzFdwN6gEjaDldxsBSQ=820C114F"
+    "JIRA_API_TOKEN"] = "bkjsdfnnsdlfnlsdfks"
 os.environ["JIRA_PROJECTS_FILTER"] = "SCRUM"
 
 
